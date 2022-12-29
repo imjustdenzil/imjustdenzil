@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @imjustdenzil
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ... Python and flutter 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on more flutter projects
 - 📫 How to reach me[@imjustdenzil on IG, Discord or by email: denzil.adotey@hotmail.com]
 
 <!---
